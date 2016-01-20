@@ -53,6 +53,8 @@ call pathogen#helptags()
 " Sets how many lines of history VIM has to remember
 set history=700
 
+set sc
+
 " Enable filetype plugins
 filetype plugin on
 filetype indent on
